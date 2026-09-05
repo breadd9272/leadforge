@@ -1,0 +1,4 @@
+data/
+*.exe
+*.zip
+node_modules/

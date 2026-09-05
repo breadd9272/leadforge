@@ -72,6 +72,62 @@ No monthly SaaS bill. No shared sending pool. Your leads never leave your comput
   <img src="docs/screenshot-leads.png" alt="LeadForge leads" width="820">
 </p>
 
+## Screens
+
+**Find creators — cast a wide net with multiple queries**
+
+<p align="center">
+  <img src="docs/ui/find-creators.png" alt="Find creators" width="420">
+</p>
+
+**Five-stage discovery pipeline with live progress**
+
+<p align="center">
+  <img src="docs/ui/pipeline-progress.png" alt="Pipeline progress cards" width="760">
+</p>
+
+**Every lead in one high-density sheet — email + socials at a glance**
+
+<p align="center">
+  <img src="docs/ui/leads-spreadsheet.png" alt="Outreach leads spreadsheet" width="820">
+</p>
+
+**Filter to exactly the creators you need**
+
+<p align="center">
+  <img src="docs/ui/filter-leads.png" alt="Filter leads" width="420">
+</p>
+
+**Reusable pitch templates with merge tags**
+
+<p align="center">
+  <img src="docs/ui/email-templates.png" alt="Email outreach templates" width="560">
+</p>
+
+**Launch a campaign with human-safe pacing**
+
+<p align="center">
+  <img src="docs/ui/launch-campaign.png" alt="Launch outreach campaign" width="560">
+</p>
+
+**Connect Gmail, Outlook or custom SMTP**
+
+<p align="center">
+  <img src="docs/ui/connect-mail.png" alt="Connect mail and senders" width="520">
+</p>
+
+**Verify your mailbox with a 16-letter app password**
+
+<p align="center">
+  <img src="docs/ui/verify-smtp.png" alt="Verify Gmail / SMTP" width="500">
+</p>
+
+**Track every dispatched campaign**
+
+<p align="center">
+  <img src="docs/ui/campaigns.png" alt="Outreach campaigns" width="760">
+</p>
+
 ## Safety by design
 
 - **Rate-limit tough** — automatic backoff, retries, identity rotation and a 15-second watchdog keep long scans alive without hanging
